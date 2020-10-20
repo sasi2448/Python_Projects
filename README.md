@@ -1,5 +1,5 @@
 # Python_Projects
-The goal of python is to study data and turn it into meaningful information that will help in future for taking better decisions.
+The goal of python project is to study data and turn it into meaningful information that will help in future for taking better decisions.
 
 Steps I followed for basic Data Exploration and Preprocessing:
 1.Identification of variables and data types
